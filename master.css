@@ -5,4 +5,5 @@ body {
 .productimg {
   height: 150;
   width: 150;
+  position: left;
 }
